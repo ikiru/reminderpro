@@ -1,4 +1,4 @@
-import { ADD_REMINDER } from "../constance";
+import { ADD_REMINDER } from "../constants";
 
 export const addReminder = text => {
   const action = {
